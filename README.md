@@ -4,7 +4,7 @@ Description: Fundamental concepts of computer information systems as applied to 
 
 ### Textbook Information 
 
-You can find the textbook on Cengage as an eBook. The textbook we will be utilizing for this course is "Discovering Computers: Digital Technology, Data, and Devices" by Jennifer Campbell, etc. 17th edition. 
+[Add Textbook Later]
 
 ### Meeting Times
 Tuesday 1930 - 2110  
